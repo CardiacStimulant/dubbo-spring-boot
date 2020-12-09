@@ -1,2 +1,2 @@
-# spring-boot-dubbo
-使用spring boot继承dubbo
+# dubbo-spring-boot
+使用spring boot集成dubbo
