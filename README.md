@@ -6,5 +6,6 @@ dubbo api接口
 dubbo 提供者
 # dubbo-spring-boot-consumer
 dubbo 消费者
-# 使用方法：
+# 使用方法
+需要zookeeper注册中心
 启动provider和consumer，然后访问：http://localhost:7000/sayHello
